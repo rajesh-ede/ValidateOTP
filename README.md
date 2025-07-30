@@ -49,3 +49,7 @@ This project helped me understand:
 ' Disable submit button until OTP is fully entered
 
 . Add resend OTP functionality with countdown timer
+
+
+OutPut:
+<img width="942" height="491" alt="otp" src="https://github.com/user-attachments/assets/7455b3b9-1066-4699-bdc2-1ef3a35b8b55" />
